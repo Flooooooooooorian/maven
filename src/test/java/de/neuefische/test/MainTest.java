@@ -9,7 +9,7 @@ class MainTest {
     @Test
     void when_1_add1_then_return_2() {
         //GIVEN
-        int a = 1;
+        int a = 3;
         int b = 1;
 
         //WHEN
